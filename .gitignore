@@ -1,0 +1,29 @@
+# Project
+typechain-types/
+artifacts/
+cache/
+dist/
+code/
+besu/
+
+# IDE
+.idea
+.vscode
+
+# OS
+.DS_Store
+
+# NODE
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+/lerna-debug.log
+/report.*.json
+
+# env
+.env.*
+!.env.sample
+
+/coverage
+/coverage.json
